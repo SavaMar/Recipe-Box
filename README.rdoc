@@ -1,9 +1,9 @@
--== README
- +== Week 3 of mackenziechild 12 in 12 Challenge
-  
- -This README would normally document whatever steps are necessary to get the
- -application up and running.
- +My goal with this challenge is to teach myself Ruby on Rails with mackenziechild by building a new web app (using rails)
-  
- -Things you may want to cover:
- +This week I built a recipe box, with nested forms (each recipe has multiple ingredients and multiple steps), image uploading, and using HAML instead of ERB.
+== README
+== Week 3 of mackenziechild 12 in 12 Challenge
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+My goal with this challenge is to teach myself Ruby on Rails with mackenziechild by building a new web app (using rails)
+
+Things you may want to cover:
+This week I built a recipe box, with nested forms (each recipe has multiple ingredients and multiple steps), image uploading, and using HAML instead of ERB.
